@@ -16,6 +16,7 @@ Web3.js: A JavaScript library that enables interaction between the smart contrac
 🛠️ How to Use
 Tax Token is primarily used in applications that require tax handling, such as decentralized marketplaces or transaction platforms.
 The token facilitates seamless tax collection on every transaction made on the platform, while also generating reports and automating tax payments, reducing manual intervention.
+
 🚀 Next Steps -
 Tax Token: Expansion to handle multiple tax rates and jurisdictions, real-time reporting, and integration with financial applications for tax filing.
 📚 Learn More
@@ -23,5 +24,6 @@ Truffle Framework: A powerful framework to develop, test, and deploy Ethereum sm
 Ganache: A personal Ethereum blockchain for testing and deploying smart contracts locally.
 Solidity Documentation: The core programming language for writing smart contracts on Ethereum.
 Web3.js: A JavaScript library for interacting with the Ethereum blockchain.
+
 📢 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
